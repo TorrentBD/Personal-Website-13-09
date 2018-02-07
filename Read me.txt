@@ -1,0 +1,10 @@
+This the first font end develpment by me.
+
+Title : Personal Website
+
+Technology and tools: Basic HTML and CSS,browser and sublime text editor.
+
+ 
+
+	This the very sipmple work made by using HTML,CSS and following simple parallel design structure.
+        So its always easy and seemed to be cheap. Bt no metter. I had learned mmore by this project . Thanks Sir.   
